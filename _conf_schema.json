@@ -1,0 +1,14 @@
+{
+  "remove_spaces": {
+    "description": "清理英文后是否移除多余空格",
+    "type": "bool",
+    "hint": "开启后会将连续空格合并为单个空格",
+    "default": true
+  },
+  "log_filtered": {
+    "description": "是否在日志中记录过滤操作",
+    "type": "bool",
+    "hint": "开启后可在日志中查看过滤详情",
+    "default": false
+  }
+}
