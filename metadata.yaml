@@ -1,0 +1,5 @@
+name: astrbot_plugin_filter_english
+desc: 拦截 AstrBot 输出（Bot 回复）中的英文字母，如有则清理后输出，无英文则原样输出。清理失败时不做处理直接发送原消息。
+author: user
+version: 2.0.0
+repo: ""
